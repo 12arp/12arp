@@ -2,7 +2,7 @@
  <h1 align="center">Hi 👋, I'm Arpit Yadav</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif")
+(img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg")
 - 🌱 I’m currently learning **Cloud computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/12arp](https://github.com/12arp)
